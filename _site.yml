@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "利用規約"
       href: terms-of-use.html
-    - text: "使用法"
+    - text: "利用方法"
       href: usage-of-cbat.html
 output:
   html_document:
