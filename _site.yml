@@ -5,9 +5,9 @@ navbar:
     - text: "ホーム"
       href: index.html
     - text: "利用規約"
-      href: terms_of_use.html
+      href: terms-of-use.html
     - text: "使用法"
-      href: usage_of_cbat.html
+      href: usage-of-cbat.html
 output:
   html_document:
     theme: cosmo

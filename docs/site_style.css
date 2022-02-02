@@ -1,37 +1,28 @@
 h1 {
-  color: #006;
+  color: #000;
+  border-bottom: 1px solid #000;
 }
 h2 {
-  color: #039;
-  border-bottom: 1px solid #039;
+  color: #000;
   margin-top: 35px;
   padding-top: 20px;
 }
 h3 {
-  color: #03f;
+  color: #000;
   margin-top: 20px;
   padding-top: 15px;
+}
+
+.tocify .tocify-header {
+color: black;
+}
+
+.tocify .tocify-header .active {
+color: white;
+background: black;
 }
 
 footer {
   margin-top: 20px;
   border-top: 1px solid #006;
-}
-
-dt {
-  clear: left;
-  float: left;
-  width: 15%;
-  font-weight: bold;
-  text-align: right;
-  padding: 3px 15px 3px 0;
-}
-dd {
-  margin: 0 0 0 20%;
-  padding-top: 3px;
-  padding-bottom: 3px;
-}
-
-img {
-  border: 1px solid #006;
 }
