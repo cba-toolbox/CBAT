@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cognitive & Behavioral Assessment Toolbox"
+  navbar:
+    left:
+      - href: index.qmd
+        text: CBAT
+      - href: terms.qmd
+        text: 利用規約
+      - href: usage.qmd
+        text: 利用方法
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
