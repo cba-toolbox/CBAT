@@ -9,9 +9,9 @@
   {
     "objectID": "en/index.html",
     "href": "en/index.html",
-    "title": "test",
+    "title": "Cognitive & Behavioral Assessment Toolbox",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Cognitive & Behavioral Assessment Toolbox"
   },
   {
     "objectID": "index.html",
@@ -79,15 +79,15 @@
   {
     "objectID": "en/terms.html",
     "href": "en/terms.html",
-    "title": "About",
+    "title": "Terms of use",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Terms of use"
   },
   {
     "objectID": "en/usage.html",
     "href": "en/usage.html",
-    "title": "About",
+    "title": "How to",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "How to use CBAT."
   }
 ]
