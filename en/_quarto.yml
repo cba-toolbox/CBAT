@@ -10,10 +10,10 @@ website:
     left:
       - href: index.qmd
         text: CBAT
-      - href: terms.qmd
-        text: Terms of Use
       - href: usage.qmd
         text: How to use CBAT
+      - href: terms.qmd
+        text: Terms of Use
     right:
       - href: https://cba-toolbox.github.io/CBAT/index.html
         text: Japanese
