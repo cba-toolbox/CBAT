@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Cognitive & Behavioral Assessment Toolbox"
+  title: "CBAT"
   navbar:
+    logo: logo.png
+    title: false
     left:
       - href: index.qmd
         text: CBAT
@@ -20,5 +22,3 @@ format:
     theme: minty
     css: styles.css
     toc: true
-
-editor: visual

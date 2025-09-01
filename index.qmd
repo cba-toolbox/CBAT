@@ -2,4 +2,12 @@
 title: "Cognitive & Behavioral Assessment Toolbox"
 ---
 
+::::: columns
+::: {.column width="25%"}
+![](logo.png)
+:::
+
+::: {.column width="75%"}
 Cognitive & Behavioral Assessment Toolbox (CBAT)へようこそ。
+:::
+:::::
