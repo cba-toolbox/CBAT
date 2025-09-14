@@ -1,5 +1,345 @@
 ---
-title: "Terms of use"
+title: "Terms of Use & Privacy Policy"
 ---
 
-Terms of use
+# Terms of Use
+
+The Terms of Use ("these Terms") set forth the conditions for the provision of the Service and the rights and obligations between the association and registered users. Before using The Service, you are required to read the entire text of these Terms and agree to them. Logging into the Service shall be deemed as your agreement to these Terms.
+
+## Article 1 (Scope of Application)
+
+1.  These Terms are intended to define the rights and obligations between the Association and registered users regarding the provision and use of the Service and shall apply to all relationships related to the use of the Service between the Association and Registered users.
+
+2.  The usage guidelines for the Service published on the Association's website (<https://cba-toolbox.github.io/CBAT/en/usage.html>) constitute a part of these Terms.
+
+3.  In the event of any discrepancy between the provisions of these Terms and the rules referred to in the preceding paragraph or other explanations of the Service provided outside of these Terms, the provisions of these Terms shall take precedence.
+
+## Article 2 (Definitions)
+
+The following terms used in these Terms shall have the meanings defined below:
+
+1.  **"Service Use Agreement"** refers to the agreement for the use of the Service, concluded between the Association and registered users based on these Terms.
+
+2.  **"Intellectual Property Rights"** refer to copyrights, patent rights, utility model rights, design rights, trademark rights, and other intellectual property rights (including the rights to acquire or apply for registration of such rights).
+
+3.  **"Posted Data"** refers to content (including but not limited to text, images, videos, and other data) that registered users post or otherwise transmit through the Service.
+
+4.  **"Association"** refers to the Computational Psychiatry Colloquium (<https://cpcolloquium.github.io/cp_book/cpsy_colloquium.html>).
+
+5.  **"Association Website"** refers to the websites operated by the Association under the domains cbat.cpsy-lab.com or cba-toolbox.github.io (if the domain or content of the websites is changed for any reason, the websites after such changes shall be included).
+
+6.  **"Registered User"** refers to an individual or corporation registered as a user of The Service in accordance with these Terms.
+
+7.  **"Service"** refers to the service named “Cognitive & Behavioral Assessment Toolbox provided” by the association (if the name or content of the service is changed for any reason, the service after such changes shall be included).
+
+## Article 3 (Registration)
+
+1.  Any individual or entity wishing to use the Service ("Applicant") may apply for registration to use the Service by agreeing to comply with these Terms and providing certain information specified by the association ("Registration Information") in a manner designated by the association.
+
+2.  The Association shall determine, based on its criteria, whether to approve the registration of an applicant who has applied for registration in accordance with the preceding paragraph ("Registration Applicant"). If the Association approves the registration, it shall notify the Registration Applicant accordingly. The registration of the Registration Applicant as a Registered User shall be deemed completed upon the association's issuance of this notification.
+
+3.  Upon the completion of the registration as defined in the preceding paragraph, a Term of Use shall be established between the Registered User and the association, and the Registered User shall be able to use the Service in accordance with these Terms.
+
+4.  The Association may refuse registration or re-registration if the Registration Applicant falls under any of the following circumstances and shall bear no obligation to disclose the reasons:\
+    (1) Any or all of the Registration Information provided to the Association is false, contains errors, or has omissions.\
+    (2) The applicant is a minor, an adult ward, a person under curatorship, or a person under assistance, and has not obtained the consent of a legal representative, guardian, curator, or assistant, as applicable.\
+    (3) The Association reasonably determines that the applicant is an anti-social force (meaning organized crime groups, members of organized crime groups, right-wing groups, anti-social forces, or any other equivalent entity; same hereafter), or is involved in maintaining, operating, or managing anti-social forces through funding or other means, or is otherwise engaged in any interaction or involvement with anti-social forces.\
+    (4) The association reasonably determines that the applicant has violated these Terms or is associated with someone who has done so in the past.\
+    (5) The applicant has been subject to measures specified in Article 10.\
+    (6) The association otherwise reasonably determines that registration is inappropriate.
+
+## Article 4 (Changes to Registration Information)
+
+Registered Users shall promptly notify the association of any changes to the Registration Information in a manner specified by the association.
+
+## **Article 5 (Management of Passwords and User IDs)**
+
+Registered Users shall appropriately manage and store their passwords and User IDs related to The Service at their own responsibility and shall not allow third parties to use, lend, transfer, change the name, sell, or otherwise dispose of them.
+
+Registered Users shall bear responsibility for any damages resulting from inadequate management, errors in use, or third-party use of their passwords or User IDs.
+
+The provisions of the preceding two paragraphs shall also apply to User IDs, passwords, and email addresses associated with accounts used for social logins to The Service (e.g., logins via Google, Apple, or social networking services).
+
+## **Article 6 (Fees and Payment Methods)**
+
+Registered Users shall pay the usage fees for The Service, as separately determined by the association and displayed on The Association Website, using the payment methods specified by the association.
+
+If a Registered User delays payment of the usage fees, they shall pay the association a late payment penalty at an annual rate of 14.6%.
+
+## **Article 7 (Prohibited Acts)**
+
+Registered Users shall not engage in any of the following acts when using the Service, nor any acts that the Association reasonably determines fall under the following:
+
+1.  Acts that violate laws or regulations or are related to criminal activities.
+
+2.  Acts of fraud or threats against the association, other users of the Service, or any other third parties.
+
+3.  Acts contrary to public order and morality.
+
+4.  Acts that infringe on the Intellectual Property Rights, portrait rights, privacy rights, honor, or other rights or interests of the association, other users of The Service, or any other third parties.
+
+5.  Transmitting information through the Service that falls under or is reasonably determined by the association to fall under any of the following:
+
+    -   Information containing excessively violent or cruel expressions.
+
+    -   Information containing computer viruses or other harmful computer programs.
+
+    -   Information containing expressions that defame or damage the reputation or credibility of the Association, other users of The Service, or any other third parties.
+
+    -   Information containing excessively obscene expressions.
+
+    -   Information containing expressions that promote discrimination.
+
+    -   Information containing expressions that promote suicide or self-harm.
+
+    -   Information containing expressions that promote inappropriate drug use.
+
+    -   Information containing antisocial expressions.
+
+    -   Information seeking the dissemination of information to third parties, such as chain mail.
+
+    -   Information containing expressions that cause discomfort to others.
+
+6.  Acts that place an excessive load on the network or system of the Service.
+
+7.  Acts of reverse engineering or other analysis of the software or systems provided by the association.
+
+8.  Acts that may interfere with the operation of the Service.
+
+9.  Unauthorized access to the network or systems of the Association.
+
+10. Acts of impersonating a third party.
+
+11. Acts of using the ID or password of another user of the Service.
+
+12. Acts of advertising, solicitation, or business activities on the Service without prior approval from the association.
+
+13. Acts of collecting information about other users of the Service.
+
+14. Acts that cause disadvantage, damage, or discomfort to the association, other users of the Service, or any other third parties.
+
+15. Acts that violate the usage rules for the Service published on the Association Website (https://cba-toolbox.github.io/CBAT/en/usage.html).
+
+16. Acts of providing benefits to anti-social forces.
+
+17. Acts aimed at meeting unacquainted individuals of the opposite sex.
+
+18. Acts that directly or indirectly induce or facilitate any of the above acts.
+
+19. Attempts to engage in any of the above acts.
+
+20. Any other acts that the association reasonably deems inappropriate.
+
+## **Article 8 (Suspension of The Service)**
+
+The Association may suspend or discontinue the provision of all or part of the Service without prior notice to Registered Users if any of the following circumstances apply:
+
+1.  When urgent inspection or maintenance work is performed on the computer system related to The Service.
+
+2.  When the operation of The Service becomes impossible due to computer or communication line failures, user errors, excessive access, unauthorized access, hacking, or other similar issues.
+
+3.  When the operation of the Service becomes impossible due to force majeure events, such as earthquakes, lightning strikes, fires, storms, floods, power outages, or other natural disasters.
+
+4.  When the Association reasonably determines that suspension or interruption is necessary.
+
+## **Article 9 (Ownership of Rights)**
+
+1.  All Intellectual Property Rights related to the Association Website and the Service belong to the Association or its licensors. The license to use the Service granted under this agreement does not imply a license to use the Intellectual Property Rights related to the Association Website or the Service owned by the Association or its licensors.
+
+2.  Registered Users represent and warrant to the Association that they have the lawful rights to post or otherwise transmit Posted Data and that the Posted Data does not infringe on the rights of any third parties.
+
+3.  Registered Users grant the Association a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the Posted Data. Registered Users also grant other Registered Users a non-exclusive license to use, reproduce, distribute, create derivative works of, display, and perform the Posted Data through the Service.
+
+4.  Registered Users agree not to exercise their moral rights of authorship against the association or any party who has succeeded or been licensed by the Association.
+
+## **Article 10 (Cancellation of Registration, etc.)**
+
+1.  The Association may, without prior notice or demand, delete or hide Posted Data, temporarily suspend the use of the Service for a Registered User, or cancel their registration as a Registered User if any of the following events occur:\
+    (1) If the Registered User violates any provision of this agreement.\
+    (2) If it is discovered that the Registered User provided false information in their registration details.\
+    (3) If the Registered User suspends payments, becomes insolvent, or has a petition filed for the commencement of bankruptcy proceedings, civil rehabilitation proceedings, corporate reorganization proceedings, special liquidation, or similar proceedings.\
+    (4) If the Registered User has not logged into the Service for **24 months** or more.\
+    (5) If the Registered User fails to respond to inquiries or other communications from the association for **30 days** or more.\
+    (6) If the Registered User falls under any of the items of Article 3, Paragraph 4.\
+    (7) If the association reasonably determines that it is inappropriate to continue allowing the Registered User to use The Service or maintain their registration as a Registered User.
+
+2.  If any of the events in the preceding paragraph occur, the Registered User shall automatically forfeit the benefit of any term regarding payment obligations to the association and must immediately settle all debts owed to the association.
+
+## **Article 11 (Term of Service Use and Withdrawal)**
+
+1.  The term of service use for a Registered User shall commence upon the establishment of the Service Use Agreement (Article 3, Paragraph 3 of this agreement) and end on the date of cancellation of registration (Article 10, Paragraph 1 of this agreement) or the completion of withdrawal procedures (as described in the following paragraph).
+
+2.  Registered Users may terminate the Service by completing the withdrawal procedures prescribed by the Association.
+
+## **Article 12 (Changes to and Termination of The Service)**
+
+1.  The Association may, at its discretion, modify the content of the Service or terminate its provision.
+
+2.  If the association decides to terminate the provision of the Service, it shall notify Registered Users in advance.
+
+## **Article 13 (Disclaimer of Warranties and Limitation of Liability)**
+
+1.  The association makes no guarantees, whether explicit or implicit, regarding the following matters:
+
+    -   That the Service will meet the specific purposes of Registered Users.
+
+    -   That the Service will have the expected functionality, commercial value, accuracy, or usefulness.
+
+    -   That the use of The Service by Registered Users complies with laws applicable to them or internal regulations of industry organizations.
+
+    -   That the Service will not infringe upon third-party rights such as Intellectual Property Rights, portrait rights, privacy rights, reputation, or other rights or interests.
+
+    -   That the Service will be continuously available.
+
+    -   That the Service will be free from defects.
+
+2.  Except in cases of willful misconduct or gross negligence on the part of the association, the association shall not be liable for any damages incurred by Registered Users in connection with The Service exceeding the amount of consideration paid by the Registered User to the association in the past **12 months**.
+
+3.  Transactions, communications, disputes, or other interactions arising between Registered Users and other Registered Users or third parties in connection with The Service or The Association Website shall be resolved by the Registered User at their own responsibility.
+
+## **Article 14 (Confidentiality)**
+
+Registered Users must keep confidential any non-public information disclosed by the Association in connection with the Service, which the association has requested be treated as confidential, unless prior written consent is obtained from the association.
+
+## **Article 15 (Handling of User Information)**
+
+1.  The handling of Registered Users' information by the Association shall comply with the Association's Privacy Policy (https://cba-toolbox.github.io/CBAT/en/terms.html), and Registered Users agree to the handling of their information in accordance with this Privacy Policy.
+
+2.  The Association may use and disclose statistical information derived from the information, data, etc., provided by Registered Users, as long as such information cannot identify individuals. Registered Users shall not object to this use or disclosure.
+
+## **Article 16 (Amendments to These Terms)**
+
+1.  The Association may amend these Terms if deemed necessary.
+
+2.  In the event of any amendments, the Association will announce the effective date and details of the amended Terms by posting them on the Association's website or by other appropriate means, or by notifying Registered Users.
+
+3.  If amendments to these Terms require the consent of Registered Users under applicable law, the Association shall obtain such consent through its prescribed methods.
+
+4.  If a Registered User logs into The Service after the notification of amendments (as stated in paragraph 2), the Registered User shall be deemed to have consented to the amendments.
+
+## **Article 17 (Communication/Notices)**
+
+1.  Inquiries or other communications from Registered Users to the Association regarding the Service, as well as notifications or communications from the association to Registered Users regarding amendments to these Terms or otherwise, shall be made in accordance with the methods prescribed by the association.
+
+2.  If the Association sends communications or notices to the email address or other contact information included in the Registered User's registration information, such communications or notices shall be deemed received by the Registered User.
+
+## **Article 18 (Assignment of Contractual Status)**
+
+1.  Registered Users may not assign, transfer, pledge, or otherwise dispose of their contractual status under the Terms, or their rights or obligations based on these Terms, to third parties without the prior written consent of the Association.
+
+2.  In the event that the Association transfers its business related to the Service to another entity, the Association may transfer the contractual status under the Terms, rights and obligations based on these Terms, as well as registration details and other customer information of Registered Users, to the transferee. Registered Users agree in advance to such transfer under this paragraph. Such business transfer includes, but is not limited to, ordinary business transfers, corporate splits, or other cases where business operations are transferred.
+
+## **Article 19 (Severability)**
+
+Even if any provision or a portion of a provision of these Terms is found to be invalid or unenforceable under law, the remaining provisions, or the remaining portions of the invalid or unenforceable provision, shall continue to remain in full force and effect.
+
+## **Article 20 (Governing Law and Jurisdiction)**
+
+1.  These Terms and the Service Use Agreement shall be governed by the laws of Japan.
+
+2.  Any disputes arising from or related to these Terms or the Service Use Agreement shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
+
+Last revised on September 1, 2025
+
+# Privacy Policy
+
+The Computational Psychiatry Colloquium(hereinafter referred to as "the association") establishes the following privacy policy (hereinafter referred to as "this Policy") regarding the handling of user information, including personal information, in connection with the services provided by the association (hereinafter referred to as "the Service").
+
+## **1. Collected User Information and Collection Methods**
+
+In this Policy, "user information" refers to information related to user identification, behavioral history on communication services, and other information generated or stored in connection with users or their devices that the association collects based on this Policy. The user information collected by the association through the Service varies according to the collection method and is as follows:
+
+**(1) Information Provided by Users**
+
+Information that users provide in order to use the Service or through the use of the Service includes:
+
+-   Email address
+
+-   Number of downloads within the Service
+
+-   Information entered or submitted by users through input forms or other methods specified by the association
+
+**(2) Information Provided by Other Services upon User Authorization**
+
+If a user permits linkage between the Service and other services, such as social networking services, the association may collect the following information from such external services based on the content agreed upon at the time of authorization:
+
+-   User ID used in the external service
+
+-   Other information disclosed to the linked service as per the privacy settings of the external service
+
+**(3) Information Collected by the Association During Service Usage**
+
+The association may collect information regarding access and usage of the Service, including:
+
+-   Referrer URLs
+
+-   IP address
+
+-   Server access logs
+
+-   Cookies, ADID, IDFA, and other identifiers (hereinafter referred to as "Cookies, etc.")
+
+## **2. Purpose of Use**
+
+The specific purposes of use for user information related to the Service are as follows:
+
+1.  For registration, identity verification, user authentication, user settings, fee calculation, and the provision, maintenance, protection, and improvement of the Service
+
+2.  For measuring user traffic and behavioral patterns
+
+3.  For responding to inquiries and providing information about the Service
+
+4.  For addressing violations of the terms, policies, etc., related to the Service
+
+5.  For notifying users about changes to the terms, policies, etc., related to the Service
+
+## **3. Provision to Third Parties**
+
+3-1 The association will not provide personal information among user information to third parties without prior user consent unless required by the following circumstances:
+
+1.  When the association entrusts the handling of personal information in whole or in part within the scope necessary to achieve the purpose of use
+
+2.  When personal information is provided due to business succession by merger or other reasons
+
+3.  When permitted by the Personal Information Protection Law or other laws
+
+3-2 The association will create and retain records when providing personal information to third parties.
+
+3-3 When receiving personal information from third parties, the association will conduct necessary verifications and create and retain records regarding such verifications.
+
+3-4 The following entities are not considered "third parties" under this clause:
+
+-   Managers of the association
+
+-   Operators approved by the managers of the association
+
+-   Attorneys commissioned by the association
+
+## **4. Security Measures**
+
+4-1 The association will take necessary and appropriate measures to prevent leakage, loss, or damage of user information and to ensure its secure management.
+
+4-2 If the association outsources the handling of personal information to third parties, it will select contractors meeting the association's selection criteria, conclude contracts, and regularly monitor the handling of personal information by these contractors.
+
+4-3 For details about the security measures taken by the association, please contact the inquiry desk listed in this Policy.
+
+## **5. Requests for Disclosure, etc., of Personal Information**
+
+5-1 In accordance with the Personal Information Protection Law, the association will respond without delay to user requests regarding notification of the purpose of use, disclosure, correction, addition, deletion, suspension of use, erasure, or suspension of provision to third parties of retained personal data (collectively referred to as "requests for disclosure, etc.") after verifying that the request is from the user themselves and following the association's prescribed procedures.
+
+5-2 A handling fee of 1,000 yen (excluding tax) per request will be charged for notification of the purpose of use, disclosure of retained personal data, or records of third-party provision.
+
+5-3 For details on the procedures for requests for disclosure, etc., please contact the inquiry desk listed in this Policy.
+
+## **6. Contact Information**
+
+For opinions, questions, complaints, or inquiries about the handling of user information related to the Service, please contact the following:\
+Computational Psychiatry Colloquium
+
+cba.toolbox   (at)   gmail.com
+
+## **7. Procedures for Changing the Privacy Policy**
+
+The association may revise this Policy as necessary. However, if changes require user consent under applicable laws, the revised Policy will only apply to users who have agreed to the changes in a manner specified by the association. In the event of revisions, the association will notify users of the effective date and content of the revised Policy by displaying the revised Policy on The Association Website or through other appropriate means.
+
+Last revised on September 1, 2025

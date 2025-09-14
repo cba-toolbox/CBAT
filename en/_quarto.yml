@@ -13,7 +13,7 @@ website:
       - href: usage.qmd
         text: How to use CBAT
       - href: terms.qmd
-        text: Terms of Use
+        text: Terms of Use & Privacy Policy
     right:
       - href: https://cba-toolbox.github.io/CBAT/index.html
         text: Japanese
