@@ -4,10 +4,10 @@ title: "Cognitive & Behavioral Assessment Toolbox"
 
 ::::: columns
 ::: {.column width="25%"}
-![](logo.png)
+[![](logo.png)](https://cbat.cpsy-lab.com/)
 :::
 
 ::: {.column width="75%"}
-Cognitive & Behavioral Assessment Toolbox (CBAT)へようこそ。
+[Cognitive & Behavioral Assessment Toolbox (CBAT)](https://cbat.cpsy-lab.com/)へようこそ。
 :::
 :::::

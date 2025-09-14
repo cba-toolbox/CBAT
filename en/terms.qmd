@@ -41,6 +41,7 @@ The following terms used in these Terms shall have the meanings defined below:
 3.  Upon the completion of the registration as defined in the preceding paragraph, a Term of Use shall be established between the Registered User and the association, and the Registered User shall be able to use the Service in accordance with these Terms.
 
 4.  The Association may refuse registration or re-registration if the Registration Applicant falls under any of the following circumstances and shall bear no obligation to disclose the reasons:\
+
     (1) Any or all of the Registration Information provided to the Association is false, contains errors, or has omissions.\
     (2) The applicant is a minor, an adult ward, a person under curatorship, or a person under assistance, and has not obtained the consent of a legal representative, guardian, curator, or assistant, as applicable.\
     (3) The Association reasonably determines that the applicant is an anti-social force (meaning organized crime groups, members of organized crime groups, right-wing groups, anti-social forces, or any other equivalent entity; same hereafter), or is involved in maintaining, operating, or managing anti-social forces through funding or other means, or is otherwise engaged in any interaction or involvement with anti-social forces.\
@@ -162,7 +163,6 @@ The Association may suspend or discontinue the provision of all or part of the S
     (5) If the Registered User fails to respond to inquiries or other communications from the association for **30 days** or more.\
     (6) If the Registered User falls under any of the items of Article 3, Paragraph 4.\
     (7) If the association reasonably determines that it is inappropriate to continue allowing the Registered User to use The Service or maintain their registration as a Registered User.
-
 2.  If any of the events in the preceding paragraph occur, the Registered User shall automatically forfeit the benefit of any term regarding payment obligations to the association and must immediately settle all debts owed to the association.
 
 ## **Article 11 (Term of Service Use and Withdrawal)**
