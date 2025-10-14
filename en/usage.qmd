@@ -1,5 +1,82 @@
 ---
-title: "How to"
+title: "How to use CBAT"
 ---
 
-How to use CBAT.
+
+This document explains how to use CBAT.
+
+## Login
+
+When you first open CBAT, you will see a screen like the one below. Please read the "How to Use" and "Terms of Service" in the boxed area before using the application. Click "EN/JP" to switch to the Japanese version. To use the service, please click "Login."
+
+![](images/cbat01.png)
+
+CBAT uses social login with a Google account. Please select your account you wish to link.
+
+![](images/cbat02.png)
+
+If you have read the Terms of Service linked on the initial screen, please click "Next."
+
+![](images/cbat03.png)
+
+
+Once you are logged into CBAT, three buttons will appear: "DL (ZIP)," "DL (JATOS)," and "JATOSIFY."
+
+![](images/cbat04.png)
+
+## Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT
+
+To see the tasks and questionnaires available in CBAT, double-click a name in the "Task Name" column.
+
+![](images/cbat05.png)
+
+Double-clicking the task name will display detailed information about the task.
+
+![](images/cbat06.png)
+
+Click "RUN" in the "Demo" column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file.
+
+![](images/cbat07.png)
+
+## Downloading Tasks
+
+Select the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the "Task Name" panel on the right.
+
+![](images/cbat08.png)
+
+You can reorder the tasks listed in the "Task Name" panel on the right by dragging and dropping them. Arranging them in your preferred order will allow the experiment to run in that sequence. Once you have finished ordering the tasks, click "DL (JATOS)."
+
+![](images/cbat09.png)
+
+Next, configure the settings for the JATOS file (JZIP) you are downloading.
+
+![](images/cbat10.png)
+
+In the JATOS file (JZIP) settings, enter the experiment name in the "Title" field and the version number in the "JATOS Version" field, then click "OK."
+
+![](images/cbat11.png)
+
+The download will begin. Please note that preparing and downloading the file may take some time.
+
+![](images/cbat12.png)
+
+Import the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this [link](https://www.jatos.org/Installation.html).
+
+Note: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future.
+
+## Modifying Tasks and JATOSIFY
+
+While you can use the tasks from CBAT as they are, you may also wish to make some modifications. In that case, select the desired tasks and click "DL (ZIP)" to download the ZIP file. Unzip the downloaded file and make the necessary modifications.
+
+![](images/cbat13.png)
+
+Once you have finished modifying the tasks, compress the folder into a ZIP file. Then, click the "JATOSIFY" button in CBAT.
+
+![](images/cbat14.png)
+
+Enter the "Title" and "JATOS version", then upload the ZIP file you just created. The file will then be converted into a JATOS-importable format (JZIP) and downloaded. Import the downloaded JZIP file into JATOS.
+
+![](images/cbat15.png)
+
+Note: As of October 2025, uploads and downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future.
+
