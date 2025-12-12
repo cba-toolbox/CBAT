@@ -38,7 +38,17 @@ Click "RUN" in the "Demo" column to open a demo screen where you can try out the
 
 ![](images/cbat07.png)
 
-## Downloading Tasks
+## Searching and Filtering Tasks in CBAT
+
+Clicking "SEARCH" opens the search window, where you can search for tasks listed in CBAT.
+
+![](images/cbat16.png)
+
+Clicking "FILTER BY TAG" opens the tag filtering window. This allows you to filter tasks based on Research Domain Criteria (RDoC) Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone).
+
+![](images/cbat17.png)
+
+## Downloading Tasks in CBAT
 
 Select the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the "Task Name" panel on the right.
 

@@ -21,11 +21,18 @@
     "text": "CBATに収載された課題（認知課題・質問紙）の確認\nCBATに収載されたタスク・質問紙を確認するには、「課題名」の欄の名前をダブルクリックしてください。\n\n課題名をダブルクリックすると、課題の詳細の情報が表示されます。\n\n「デモ」欄の「RUN」をクリックすると、デモ画面が出てきますので、認知課題・質問紙等を試すことができます。最後まで取り組むと、そのデータがCSVファイルとして出力されます。"
   },
   {
-    "objectID": "usage.html#課題のダウンロード",
-    "href": "usage.html#課題のダウンロード",
+    "objectID": "usage.html#cbatに収載された課題の検索と絞り込み",
+    "href": "usage.html#cbatに収載された課題の検索と絞り込み",
     "title": "利用方法",
-    "section": "課題のダウンロード",
-    "text": "課題のダウンロード\n使用したい課題をチェック欄にチェックを入れて選択します。選択した課題は、右側の「課題名」パネルに追加されていきます。\n\n右側の「課題名」パネルにリストアップされた課題は、ドラッグすると順番を入れ替えられます。好みの順番に入れ替えると、その順番で実験が実施できます。順番の並び替えができたら、「DL（JATOS）」をクリックしてください。\n\nダウンロードするJATOSファイル(JZIP)の設定をします。\n\nJATOSファイル(JZIP)の設定では、「タイトル」に実験名、「JATOSのバージョン」にバージョン番号を記入して、「OK」をクリックしてください。\n\nダウンロードが開始します。ファイルの用意とダウンロードに時間がかかります。\n\nダウンロードされたJZIPファイルをJATOSにインポートしてください。JATOSの設定はこちらのリンクを参照ください。\n※2025年10月現在、サーバーの関係でダウンロードに非常に時間がかかりタイムアウトすることが生じております。こちらは、今後修正予定です。"
+    "section": "CBATに収載された課題の検索と絞り込み",
+    "text": "CBATに収載された課題の検索と絞り込み\n「検索」をクリックすると検索ウィンドウが開きますので、CBATに収載された課題の検索ができます。\n\n「タグで絞り込み」をクリックするとタグによる絞り込みウィンドウが開きます。Research Domain Criteria (RDoC)のDomainやConstructの観点から絞り込みをかけたり、実施可能なデバイス（PC,タブレット、携帯電話）などによる絞り込みも可能です。"
+  },
+  {
+    "objectID": "usage.html#cbatに収載された課題のダウンロード",
+    "href": "usage.html#cbatに収載された課題のダウンロード",
+    "title": "利用方法",
+    "section": "CBATに収載された課題のダウンロード",
+    "text": "CBATに収載された課題のダウンロード\n使用したい課題をチェック欄にチェックを入れて選択します。選択した課題は、右側の「課題名」パネルに追加されていきます。\n\n右側の「課題名」パネルにリストアップされた課題は、ドラッグすると順番を入れ替えられます。好みの順番に入れ替えると、その順番で実験が実施できます。順番の並び替えができたら、「DL（JATOS）」をクリックしてください。\n\nダウンロードするJATOSファイル(JZIP)の設定をします。\n\nJATOSファイル(JZIP)の設定では、「タイトル」に実験名、「JATOSのバージョン」にバージョン番号を記入して、「OK」をクリックしてください。\n\nダウンロードが開始します。ファイルの用意とダウンロードに時間がかかります。\n\nダウンロードされたJZIPファイルをJATOSにインポートしてください。JATOSの設定はこちらのリンクを参照ください。\n※2025年10月現在、サーバーの関係でダウンロードに非常に時間がかかりタイムアウトすることが生じております。こちらは、今後修正予定です。"
   },
   {
     "objectID": "usage.html#課題の修正とjatosify",
@@ -492,8 +499,36 @@
   {
     "objectID": "en/usage.html",
     "href": "en/usage.html",
-    "title": "How to",
+    "title": "How to use CBAT",
     "section": "",
-    "text": "How to use CBAT."
+    "text": "This document explains how to use CBAT."
+  },
+  {
+    "objectID": "en/usage.html#login",
+    "href": "en/usage.html#login",
+    "title": "How to use CBAT",
+    "section": "Login",
+    "text": "Login\nWhen you first open CBAT, you will see a screen like the one below. Please read the “How to Use” and “Terms of Service” in the boxed area before using the application. Click “EN/JP” to switch to the Japanese version. To use the service, please click “Login.”\n\nCBAT uses social login with a Google account. Please select your account you wish to link.\n\nIf you have read the Terms of Service linked on the initial screen, please click “Next.”\n\nOnce you are logged into CBAT, three buttons will appear: “DL (ZIP),” “DL (JATOS),” and “JATOSIFY.”"
+  },
+  {
+    "objectID": "en/usage.html#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat",
+    "href": "en/usage.html#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat",
+    "title": "How to use CBAT",
+    "section": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT",
+    "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
+  },
+  {
+    "objectID": "en/usage.html#downloading-tasks",
+    "href": "en/usage.html#downloading-tasks",
+    "title": "How to use CBAT",
+    "section": "Downloading Tasks",
+    "text": "Downloading Tasks\nSelect the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the “Task Name” panel on the right.\n\nYou can reorder the tasks listed in the “Task Name” panel on the right by dragging and dropping them. Arranging them in your preferred order will allow the experiment to run in that sequence. Once you have finished ordering the tasks, click “DL (JATOS).”\n\nNext, configure the settings for the JATOS file (JZIP) you are downloading.\n\nIn the JATOS file (JZIP) settings, enter the experiment name in the “Title” field and the version number in the “JATOS Version” field, then click “OK.”\n\nThe download will begin. Please note that preparing and downloading the file may take some time.\n\nImport the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this link.\nNote: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future."
+  },
+  {
+    "objectID": "en/usage.html#modifying-tasks-and-jatosify",
+    "href": "en/usage.html#modifying-tasks-and-jatosify",
+    "title": "How to use CBAT",
+    "section": "Modifying Tasks and JATOSIFY",
+    "text": "Modifying Tasks and JATOSIFY\nWhile you can use the tasks from CBAT as they are, you may also wish to make some modifications. In that case, select the desired tasks and click “DL (ZIP)” to download the ZIP file. Unzip the downloaded file and make the necessary modifications.\n\nOnce you have finished modifying the tasks, compress the folder into a ZIP file. Then, click the “JATOSIFY” button in CBAT.\n\nEnter the “Title” and “JATOS version”, then upload the ZIP file you just created. The file will then be converted into a JATOS-importable format (JZIP) and downloaded. Import the downloaded JZIP file into JATOS.\n\nNote: As of October 2025, uploads and downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future."
   }
 ]
