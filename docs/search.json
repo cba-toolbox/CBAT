@@ -18,7 +18,7 @@
     "href": "usage.html#cbatに収載された課題認知課題質問紙の確認",
     "title": "利用方法",
     "section": "CBATに収載された課題（認知課題・質問紙）の確認",
-    "text": "CBATに収載された課題（認知課題・質問紙）の確認\nCBATに収載されたタスク・質問紙を確認するには、「課題名」の欄の名前をダブルクリックしてください。\n\n課題名をダブルクリックすると、課題の詳細の情報が表示されます。\n\n「デモ」欄の「RUN」をクリックすると、デモ画面が出てきますので、認知課題・質問紙等を試すことができます。最後まで取り組むと、そのデータがCSVファイルとして出力されます。"
+    "text": "CBATに収載された課題（認知課題・質問紙）の確認\nCBATに収載されたタスク・質問紙を確認するには、「課題名」の欄の名前をダブルクリックしてください。\n\n課題名をダブルクリックすると、課題の詳細の情報が表示されます。詳細表示では、課題についての各種情報に加えて、Research Domain Criteria (RDoC)のDomainやConstructの情報もタグに記載されています。\n\n「デモ」欄の「RUN」をクリックすると、デモ画面が出てきますので、認知課題・質問紙等を試すことができます。最後まで取り組むと、そのデータがCSVファイルとして出力されます。"
   },
   {
     "objectID": "usage.html#cbatに収載された課題の検索と絞り込み",
@@ -518,11 +518,18 @@
     "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
   },
   {
-    "objectID": "en/usage.html#downloading-tasks",
-    "href": "en/usage.html#downloading-tasks",
+    "objectID": "en/usage.html#searching-and-filtering-tasks-in-cbat",
+    "href": "en/usage.html#searching-and-filtering-tasks-in-cbat",
     "title": "How to use CBAT",
-    "section": "Downloading Tasks",
-    "text": "Downloading Tasks\nSelect the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the “Task Name” panel on the right.\n\nYou can reorder the tasks listed in the “Task Name” panel on the right by dragging and dropping them. Arranging them in your preferred order will allow the experiment to run in that sequence. Once you have finished ordering the tasks, click “DL (JATOS).”\n\nNext, configure the settings for the JATOS file (JZIP) you are downloading.\n\nIn the JATOS file (JZIP) settings, enter the experiment name in the “Title” field and the version number in the “JATOS Version” field, then click “OK.”\n\nThe download will begin. Please note that preparing and downloading the file may take some time.\n\nImport the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this link.\nNote: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future."
+    "section": "Searching and Filtering Tasks in CBAT",
+    "text": "Searching and Filtering Tasks in CBAT\nClicking “SEARCH” opens the search window, where you can search for tasks listed in CBAT.\n\nClicking “FILTER BY TAG” opens the tag filtering window. This allows you to filter tasks based on Research Domain Criteria (RDoC) Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone)."
+  },
+  {
+    "objectID": "en/usage.html#downloading-tasks-in-cbat",
+    "href": "en/usage.html#downloading-tasks-in-cbat",
+    "title": "How to use CBAT",
+    "section": "Downloading Tasks in CBAT",
+    "text": "Downloading Tasks in CBAT\nSelect the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the “Task Name” panel on the right.\n\nYou can reorder the tasks listed in the “Task Name” panel on the right by dragging and dropping them. Arranging them in your preferred order will allow the experiment to run in that sequence. Once you have finished ordering the tasks, click “DL (JATOS).”\n\nNext, configure the settings for the JATOS file (JZIP) you are downloading.\n\nIn the JATOS file (JZIP) settings, enter the experiment name in the “Title” field and the version number in the “JATOS Version” field, then click “OK.”\n\nThe download will begin. Please note that preparing and downloading the file may take some time.\n\nImport the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this link.\nNote: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future."
   },
   {
     "objectID": "en/usage.html#modifying-tasks-and-jatosify",

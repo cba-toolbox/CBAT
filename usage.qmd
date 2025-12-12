@@ -28,7 +28,7 @@ CBATに収載されたタスク・質問紙を確認するには、「課題名�
 
 ![](images/cbat05.png)
 
-課題名をダブルクリックすると、課題の詳細の情報が表示されます。
+課題名をダブルクリックすると、課題の詳細の情報が表示されます。詳細表示では、課題についての各種情報に加えて、Research Domain Criteria (RDoC)のDomainやConstructの情報もタグに記載されています。
 
 ![](images/cbat06.png)
 

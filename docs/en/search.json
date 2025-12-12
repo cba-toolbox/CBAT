@@ -18,7 +18,7 @@
     "href": "usage.html#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat",
     "title": "How to use CBAT",
     "section": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT",
-    "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
+    "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, Research Domain Criteria (RDoC) Domains and Constructs are also listed in the tags.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
   },
   {
     "objectID": "usage.html#searching-and-filtering-tasks-in-cbat",

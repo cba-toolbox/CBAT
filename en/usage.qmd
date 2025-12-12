@@ -30,7 +30,7 @@ To see the tasks and questionnaires available in CBAT, double-click a name in th
 
 ![](images/cbat05.png)
 
-Double-clicking the task name will display detailed information about the task.
+Double-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, Research Domain Criteria (RDoC) Domains and Constructs are also listed in the tags.
 
 ![](images/cbat06.png)
 
