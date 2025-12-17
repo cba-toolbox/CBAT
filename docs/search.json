@@ -35,6 +35,13 @@
     "text": "CBATに収載された課題のダウンロード\n使用したい課題をチェック欄にチェックを入れて選択します。選択した課題は、右側の「課題名」パネルに追加されていきます。\n\n右側の「課題名」パネルにリストアップされた課題は、ドラッグすると順番を入れ替えられます。好みの順番に入れ替えると、その順番で実験が実施できます。順番の並び替えができたら、「DL（JATOS）」をクリックしてください。\n\nダウンロードするJATOSファイル(JZIP)の設定をします。\n\nJATOSファイル(JZIP)の設定では、「タイトル」に実験名、「JATOSのバージョン」にバージョン番号を記入して、「OK」をクリックしてください。\n\nダウンロードが開始します。ファイルの用意とダウンロードに時間がかかります。\n\nダウンロードされたJZIPファイルをJATOSにインポートしてください。JATOSの設定はこちらのリンクを参照ください。\n※2025年10月現在、サーバーの関係でダウンロードに非常に時間がかかりタイムアウトすることが生じております。こちらは、今後修正予定です。"
   },
   {
+    "objectID": "usage.html#独自の同意書とcbatに収載されていない質問紙の作成",
+    "href": "usage.html#独自の同意書とcbatに収載されていない質問紙の作成",
+    "title": "利用方法",
+    "section": "独自の同意書とCBATに収載されていない質問紙の作成",
+    "text": "独自の同意書とCBATに収載されていない質問紙の作成\n\n独自の同意書の用意\n同意書は研究によって異なると思いますので、独自の同意書をCBAT形式で用意するShinyアプリを以下に用意しています。ご自身の研究の同意書に合わせて修正して「Zipファイルをダウンロード」をクリックすると、CBAT形式のzipファイルがダウンロードされます。なお、以下のアプリに記入された内容はサーバー内に保存されませんので、ご安心ください。\nCBAT用インフォームドコンセントフォーム生成ツール\n\n\nCBATに収載されていない質問紙の用意\n質問紙はライセンスの問題もあり、ほとんどCBATに収載できていません。そのため、各研究者が使いたい質問紙をCBAT形式で用意するShinyアプリを以下に用意しています。ご自身の研究で使用する質問紙の情報を追加して「Zipファイルをダウンロード」をクリックすると、CBAT形式のzipファイルがダウンロードされます。なお、以下のアプリに記入された内容はサーバー内に保存されませんので、ご安心ください。\nCBAT用質問紙フォーム生成ツール"
+  },
+  {
     "objectID": "usage.html#課題の修正とjatosify",
     "href": "usage.html#課題の修正とjatosify",
     "title": "利用方法",
@@ -515,7 +522,7 @@
     "href": "en/usage.html#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat",
     "title": "How to use CBAT",
     "section": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT",
-    "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
+    "text": "Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT\nTo see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.\n\nDouble-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, Research Domain Criteria (RDoC) Domains and Constructs are also listed in the tags.\n\nClick “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file."
   },
   {
     "objectID": "en/usage.html#searching-and-filtering-tasks-in-cbat",

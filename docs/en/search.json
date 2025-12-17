@@ -35,6 +35,13 @@
     "text": "Downloading Tasks in CBAT\nSelect the tasks you want to use by checking the corresponding boxes. The selected tasks will be added to the “Task Name” panel on the right.\n\nYou can reorder the tasks listed in the “Task Name” panel on the right by dragging and dropping them. Arranging them in your preferred order will allow the experiment to run in that sequence. Once you have finished ordering the tasks, click “DL (JATOS).”\n\nNext, configure the settings for the JATOS file (JZIP) you are downloading.\n\nIn the JATOS file (JZIP) settings, enter the experiment name in the “Title” field and the version number in the “JATOS Version” field, then click “OK.”\n\nThe download will begin. Please note that preparing and downloading the file may take some time.\n\nImport the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this link.\nNote: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future."
   },
   {
+    "objectID": "usage.html#creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat",
+    "href": "usage.html#creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat",
+    "title": "How to use CBAT",
+    "section": "Creating Custom Informed Consent Forms and Questionnaires Not Included in CBAT",
+    "text": "Creating Custom Informed Consent Forms and Questionnaires Not Included in CBAT\n\nPreparing Custom Informed Consent Forms\nSince informed consent forms vary depending on the study, we have provided a Shiny app below to generate custom consent forms in the CBAT format. Please modify the content to match your study’s consent form and click “Download Zip File” to download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.\nCBAT Informed Consent Form Generator\n\n\nPreparing Questionnaires Not Included in CBAT\nDue to licensing issues, very few questionnaires are included in CBAT by default. Therefore, we have provided a Shiny app below that allows researchers to prepare their desired questionnaires in the CBAT format. By adding the information for the questionnaire used in your study and clicking “Download Zip File”, you can download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.\nCBAT Questionnaire Form Generator"
+  },
+  {
     "objectID": "usage.html#modifying-tasks-and-jatosify",
     "href": "usage.html#modifying-tasks-and-jatosify",
     "title": "How to use CBAT",

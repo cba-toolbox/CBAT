@@ -127,6 +127,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat" id="toc-checking-the-tasks-cognitive-tasksquestionnaires-in-cbat" class="nav-link" data-scroll-target="#checking-the-tasks-cognitive-tasksquestionnaires-in-cbat">Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT</a></li>
   <li><a href="#searching-and-filtering-tasks-in-cbat" id="toc-searching-and-filtering-tasks-in-cbat" class="nav-link" data-scroll-target="#searching-and-filtering-tasks-in-cbat">Searching and Filtering Tasks in CBAT</a></li>
   <li><a href="#downloading-tasks-in-cbat" id="toc-downloading-tasks-in-cbat" class="nav-link" data-scroll-target="#downloading-tasks-in-cbat">Downloading Tasks in CBAT</a></li>
+  <li><a href="#creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat" id="toc-creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat" class="nav-link" data-scroll-target="#creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat">Creating Custom Informed Consent Forms and Questionnaires Not Included in CBAT</a>
+  <ul class="collapse">
+  <li><a href="#preparing-custom-informed-consent-forms" id="toc-preparing-custom-informed-consent-forms" class="nav-link" data-scroll-target="#preparing-custom-informed-consent-forms">Preparing Custom Informed Consent Forms</a></li>
+  <li><a href="#preparing-questionnaires-not-included-in-cbat" id="toc-preparing-questionnaires-not-included-in-cbat" class="nav-link" data-scroll-target="#preparing-questionnaires-not-included-in-cbat">Preparing Questionnaires Not Included in CBAT</a></li>
+  </ul></li>
   <li><a href="#modifying-tasks-and-jatosify" id="toc-modifying-tasks-and-jatosify" class="nav-link" data-scroll-target="#modifying-tasks-and-jatosify">Modifying Tasks and JATOSIFY</a></li>
   </ul>
 </nav>
@@ -169,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="checking-the-tasks-cognitive-tasksquestionnaires-in-cbat">Checking the Tasks (Cognitive Tasks/Questionnaires) in CBAT</h2>
 <p>To see the tasks and questionnaires available in CBAT, double-click a name in the “Task Name” column.</p>
 <p><img src="images/cbat05.png" class="img-fluid"></p>
-<p>Double-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, Research Domain Criteria (RDoC) Domains and Constructs are also listed in the tags.</p>
+<p>Double-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, <strong>Research Domain Criteria (RDoC)</strong> Domains and Constructs are also listed in the tags.</p>
 <p><img src="images/cbat06.png" class="img-fluid"></p>
 <p>Click “RUN” in the “Demo” column to open a demo screen where you can try out the cognitive tasks, questionnaires, etc. Upon completion, the data will be downloaded as a CSV file.</p>
 <p><img src="images/cbat07.png" class="img-fluid"></p>
@@ -178,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="searching-and-filtering-tasks-in-cbat">Searching and Filtering Tasks in CBAT</h2>
 <p>Clicking “SEARCH” opens the search window, where you can search for tasks listed in CBAT.</p>
 <p><img src="images/cbat16.png" class="img-fluid"></p>
-<p>Clicking “FILTER BY TAG” opens the tag filtering window. This allows you to filter tasks based on Research Domain Criteria (RDoC) Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone).</p>
+<p>Clicking “FILTER BY TAG” opens the tag filtering window. This allows you to filter tasks based on <strong>Research Domain Criteria (RDoC)</strong> Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone).</p>
 <p><img src="images/cbat17.png" class="img-fluid"></p>
 </section>
 <section id="downloading-tasks-in-cbat" class="level2">
@@ -195,6 +200,19 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/cbat12.png" class="img-fluid"></p>
 <p>Import the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this <a href="https://www.jatos.org/Installation.html">link</a>.</p>
 <p>Note: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future.</p>
+</section>
+<section id="creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat" class="level2">
+<h2 class="anchored" data-anchor-id="creating-custom-informed-consent-forms-and-questionnaires-not-included-in-cbat">Creating Custom Informed Consent Forms and Questionnaires Not Included in CBAT</h2>
+<section id="preparing-custom-informed-consent-forms" class="level3">
+<h3 class="anchored" data-anchor-id="preparing-custom-informed-consent-forms">Preparing Custom Informed Consent Forms</h3>
+<p>Since informed consent forms vary depending on the study, we have provided a Shiny app below to generate custom consent forms in the CBAT format. Please modify the content to match your study’s consent form and click “Download Zip File” to download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.</p>
+<p><a href="https://shiny.cpsy-lab.com/ic-en/">CBAT Informed Consent Form Generator</a></p>
+</section>
+<section id="preparing-questionnaires-not-included-in-cbat" class="level3">
+<h3 class="anchored" data-anchor-id="preparing-questionnaires-not-included-in-cbat">Preparing Questionnaires Not Included in CBAT</h3>
+<p>Due to licensing issues, very few questionnaires are included in CBAT by default. Therefore, we have provided a Shiny app below that allows researchers to prepare their desired questionnaires in the CBAT format. By adding the information for the questionnaire used in your study and clicking “Download Zip File”, you can download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.</p>
+<p><a href="https://shiny.cpsy-lab.com/likert-en/">CBAT Questionnaire Form Generator</a></p>
+</section>
 </section>
 <section id="modifying-tasks-and-jatosify" class="level2">
 <h2 class="anchored" data-anchor-id="modifying-tasks-and-jatosify">Modifying Tasks and JATOSIFY</h2>

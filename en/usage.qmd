@@ -30,7 +30,7 @@ To see the tasks and questionnaires available in CBAT, double-click a name in th
 
 ![](images/cbat05.png)
 
-Double-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, Research Domain Criteria (RDoC) Domains and Constructs are also listed in the tags.
+Double-clicking the task name will display detailed information about the task. In the Details, in addition to various information about the task, **Research Domain Criteria (RDoC)** Domains and Constructs are also listed in the tags.
 
 ![](images/cbat06.png)
 
@@ -44,7 +44,7 @@ Clicking "SEARCH" opens the search window, where you can search for tasks listed
 
 ![](images/cbat16.png)
 
-Clicking "FILTER BY TAG" opens the tag filtering window. This allows you to filter tasks based on Research Domain Criteria (RDoC) Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone).
+Clicking "FILTER BY TAG" opens the tag filtering window. This allows you to filter tasks based on **Research Domain Criteria (RDoC)** Domains and Constructs, as well as by compatible devices (e.g., PC, tablet, or mobile phone).
 
 ![](images/cbat17.png)
 
@@ -73,6 +73,20 @@ The download will begin. Please note that preparing and downloading the file may
 Import the downloaded JZIP file into JATOS. For JATOS setup instructions, please refer to this [link](https://www.jatos.org/Installation.html).
 
 Note: As of October 2025, downloads may be very slow or time out due to server-related issues. We are planning to fix this in the future.
+
+## Creating Custom Informed Consent Forms and Questionnaires Not Included in CBAT
+### Preparing Custom Informed Consent Forms
+Since informed consent forms vary depending on the study, we have provided a Shiny app below to generate custom consent forms in the CBAT format. Please modify the content to match your study's consent form and click "Download Zip File" to download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.
+
+[CBAT Informed Consent Form Generator](https://shiny.cpsy-lab.com/ic-en/)
+
+### Preparing Questionnaires Not Included in CBAT
+
+Due to licensing issues, very few questionnaires are included in CBAT by default. Therefore, we have provided a Shiny app below that allows researchers to prepare their desired questionnaires in the CBAT format. By adding the information for the questionnaire used in your study and clicking "Download Zip File", you can download a zip file formatted for CBAT. Please be assured that any information entered into the app below is not saved on the server.
+
+[CBAT Questionnaire Form Generator](https://shiny.cpsy-lab.com/likert-en/)
+
+
 
 ## Modifying Tasks and JATOSIFY
 
